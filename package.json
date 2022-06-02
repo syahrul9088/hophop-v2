@@ -15,6 +15,7 @@
     "dotenv": "^16.0.0",
     "fs-extra": "^10.1.0",
     "gzip": "^0.1.0",
+    "machine-uuid": "^1.2.0",
     "moment": "^2.29.3",
     "node-fetch": "^2.6.1",
     "node-gzip": "^1.1.2",
